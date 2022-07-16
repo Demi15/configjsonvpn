@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+           "id": "1"
+           "city_name": "nort Bergen"
+           "country_name": "united stated"
+           "country_code": "US"
+           "is_active": "1"
+           "server_ip": "ip"
+           "server_name": "Host1"
+           "ovpn_base": ""
+    }
+  ]
+}
